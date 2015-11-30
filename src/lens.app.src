@@ -1,0 +1,7 @@
+{application, lens,
+  [{description, "Lens"},
+   {vsn, "0.1.0"},
+   {modules, [lens]},
+   {registered, []},
+   {applications, [stdlib, kernel]}]}.
+
